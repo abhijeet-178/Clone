@@ -21,7 +21,7 @@
    
 }
 .logo{
-    background-image: url("amazon-logo-1024x683.png");
+    background-image: url("assest/amazon-logo-1024x683.png");
     background-size: cover;
      height: 50px;
     width: 100%;
@@ -116,7 +116,7 @@ span{
 }
 /** Hero Section **/
 .hero-section{
-    background-image: url(amazon_hero1.jpg);
+    background-image: url("assest/amazon_hero1.jpg");
     height: 600px;
     background-size:cover ;
 }
@@ -133,7 +133,7 @@ span{
     background-color: white;
 }
 .box-img{
-    background-image: url('healthcare.jpg');
+    background-image: url('assest/healthcare.jpg');
     background-size: cover;
     height: 300px;
     margin-top: 1rem;
@@ -182,7 +182,7 @@ ul a{
     align-items: center ;
 }
 .logo1{
-    background-image: url("amazon-logo-1024x683.png");
+    background-image: url("assest/amazon-logo-1024x683.png");
     background-size: cover;
      height: 50px;
      width: 100px;
